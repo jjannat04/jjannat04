@@ -1,2 +1,1 @@
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=jjasperr)
-
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=jjasperr&theme=github_dark&disable_animations=true&show_icons=true&force_username=true)](https://codeforces.com/profile/jjasperr)
