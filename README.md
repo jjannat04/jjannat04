@@ -1,3 +1,1 @@
-![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username={jjasperr}&theme={tokyonight})
-
-
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=jjasperr)
